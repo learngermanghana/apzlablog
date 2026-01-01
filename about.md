@@ -4,39 +4,36 @@ title: About
 permalink: /about/
 ---
 
-# About the Falowen Blog
+# About the Apzla Church Management Blog
 
-<img src="https://i.imgur.com/peGxlkO.png" alt="About Falowen" class="post-img">
+<img src="https://images.unsplash.com/photo-1504052434569-70ad5836ab65?auto=format&fit=crop&w=1200&q=80" alt="Church leaders collaborating around a table" class="post-img">
 
-The **Falowen Blog** is where we share stories, tips, and updates from **Learn Language Education Academy** and the **Falowen app**.
+The **Apzla Blog** is where we share insights, strategies, and product updates for church leaders who want to streamline ministry operations and deepen community engagement.
 
-
-Our goal is simple:  
-- Help learners prepare for **Goethe exams** (A1–C1) with practical advice  
-- Share **vocabulary, grammar, and speaking strategies** that make daily practice easier  
-- Keep you updated on **new features** and **success stories** from our students  
+Our mission is simple:
+- Help churches organize people, groups, and ministries with clarity
+- Share practical stewardship, communication, and care workflows
+- Highlight real stories of churches using technology to serve more effectively
 
 ---
 
 ## Who We Are
 
-Falowen is built by teachers who understand the challenges of learning German.  
-From classrooms in **Accra, Ghana** to learners around the globe, we combine teaching experience with modern technology to make language learning accessible and effective.  
+Apzla is a church management system built for pastors, administrators, and ministry teams who need reliable tools for membership, giving, events, and communication. We partner with churches of every size to remove operational friction so leaders can focus on shepherding people.
 
 ---
 
 ## What You’ll Find Here
 
-- **Study Tips and Hacks** → Learn smarter, not harder  
-- **Exam Preparation** → Guidance for Goethe A1–C1  
-- **Vocabulary Routines** → Build daily learning habits  
-- **Falowen Updates** → New features, success stories, and behind the scenes  
+- **Operations Playbooks** → Step-by-step guides for ministry workflows
+- **Stewardship & Giving** → Best practices for transparency and growth
+- **Community Care** → Systems for follow-up, discipleship, and engagement
+- **Product Updates** → New features and roadmap highlights from Apzla
 
 ---
 
 ## Join the Journey
 
-Language learning is more than exams — it is about confidence, culture, and connection.  
+Healthy churches need both vision and structure. We’re here to provide the practical tools that support mission-driven ministry.
 
-Visit [falowen.app](https://falowen.app) to try the app.  
-Follow us on **Facebook, LinkedIn, and Instagram** for daily learning tips.
+Visit [apzla.com](https://apzla.com) to learn more or request a demo.

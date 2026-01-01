@@ -1,10 +1,13 @@
 ---
 layout: page
-title: Results
-permalink: /results/
+title: Insights & Reports
+permalink: /insights/
 ---
 
-# Results
+# Insights & Reports
 
-Check assignments and track how you are doing. The results page keeps your feedback and performance history in one convenient place.
+Track engagement trends across attendance, giving, and ministry participation. Apzla reporting tools help leaders make informed decisions and celebrate growth.
 
+- Attendance and engagement dashboards
+- Giving summaries by fund and time period
+- Volunteer coverage and ministry health snapshots

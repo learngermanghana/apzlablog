@@ -1,10 +1,13 @@
 ---
 layout: page
-title: Course Book
-permalink: /course-book/
+title: Member Directory
+permalink: /member-directory/
 ---
 
-# Course Book
+# Member Directory
 
-Falowen's Course Book gives you structured lessons that mirror classroom learning. Work through units, complete exercises and keep track of your progress directly in the app.
+Apzla keeps every person, family, and volunteer in one secure directory. Capture contact details, ministry roles, attendance history, and pastoral notes so your team always has the context they need.
 
+- Centralized profiles for members, visitors, and leaders
+- Custom tags for ministry assignments and care needs
+- Quick exports for reporting or follow-up

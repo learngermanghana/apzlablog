@@ -19,7 +19,7 @@ async function fetchReviews() {
     const json = JSON.parse(text.substring(47).slice(0, -2));
     const rows = json.table.rows || [];
     const reviews = rows.map(row => ({
-      student_name: row.c[0]?.v || '',
+      reviewer_name: row.c[0]?.v || '',
       rating: Number(row.c[1]?.v) || 0,
       review_text: row.c[2]?.v || ''
     }));
@@ -50,7 +50,7 @@ function renderReviews(reviews, container) {
     card.className = 'review-card';
 
     const name = document.createElement('h3');
-    name.textContent = toInitials(r.student_name);
+    name.textContent = toInitials(r.reviewer_name);
     card.appendChild(name);
 
     const stars = document.createElement('div');

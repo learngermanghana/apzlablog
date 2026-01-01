@@ -6,19 +6,15 @@ permalink: /contact/
 
 # Contact Us
 
-We're here to help with course registrations, class details, and general inquiries.
+We’d love to help your church explore Apzla, schedule a demo, or answer questions about church management workflows.
 
-- **Email:** [learngermanghana@gmail.com](mailto:learngermanghana@gmail.com)
-- **Phone:** [0205706589](tel:+233205706589)
-- **Mailing Address:** P.O. Box 2624, Kaneshie
+- **Email:** [hello@apzla.com](mailto:hello@apzla.com)
+- **Schedule a call:** [apzla.com](https://apzla.com)
+- **Headquarters:** Remote-first with support teams across North America & Africa
 
 ## Hours of Operation
-- **Monday:** 8:30 am – 4:00 pm
-- **Tuesday:** 8:30 am – 4:00 pm
-- **Wednesday:** 8:30 am – 4:00 pm
-- **Thursday:** 8:30 am – 4:00 pm
-- **Friday:** 8:30 am – 4:00 pm
-- **Saturday:** Closed
+- **Monday – Friday:** 8:00 am – 6:00 pm (GMT)
+- **Saturday:** By appointment
 - **Sunday:** Closed
 
-Looking for the next start date? Visit the [Upcoming Classes]({{ '/upcoming-classes/' | relative_url }}) page.
+Ready to see Apzla in action? Visit the [Features]({{ '/features/' | relative_url }}) page or request a demo from [apzla.com](https://apzla.com).
