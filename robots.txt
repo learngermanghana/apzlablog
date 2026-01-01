@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://blog.apzla.com/sitemap.xml
+Sitemap: https://blog.falowen.app/sitemap.xml
+
