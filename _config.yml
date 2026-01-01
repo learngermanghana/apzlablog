@@ -1,7 +1,7 @@
-title: "Falowen Blog"
-description: "Insights and resources from Learn Language Education Academy"
+title: "Apzla Church Management Blog"
+description: "Insights, playbooks, and product updates for church management, ministry operations, and community engagement."
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://blog.falowen.app" # your custom domain
+url: "https://blog.apzla.com" # your custom domain
 theme: minima
 header_pages:
   - about.md
@@ -12,8 +12,8 @@ plugins:
   - jekyll-sitemap # generate sitemap.xml
   - jekyll-paginate-v2
 future: true
-# twitter_username: falowen
-github_username: falowen
+# twitter_username: apzla
+# github_username: apzla
 
 giscus:
   enabled: false
