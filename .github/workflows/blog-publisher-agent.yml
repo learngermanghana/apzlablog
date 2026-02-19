@@ -1,0 +1,41 @@
+name: Blog Publisher Agent
+
+on:
+  schedule:
+    - cron: '0 9 1 * *'
+  workflow_dispatch:
+    inputs:
+      posts_per_run:
+        description: 'How many queued blog posts to publish this run'
+        required: false
+        default: '1'
+
+permissions:
+  contents: write
+
+jobs:
+  publish-posts:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Configure Git
+        run: |
+          git config user.name "apzla-blog-agent"
+          git config user.email "apzla-blog-agent@users.noreply.github.com"
+
+      - name: Publish scheduled blog posts
+        env:
+          POSTS_PER_RUN: ${{ github.event.inputs.posts_per_run || '1' }}
+        run: ./scripts/publish_scheduled_posts.sh
+
+      - name: Commit and push changes
+        run: |
+          git add _posts _drafts
+          if git diff --cached --quiet; then
+            echo "No posts were published"
+            exit 0
+          fi
+          git commit -m "chore: publish scheduled seo blog post(s)"
+          git push
